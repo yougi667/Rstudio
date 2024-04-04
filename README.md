@@ -8,7 +8,10 @@ de GUERMASSI Aymen etudiant en BUT Science des données 1ere année
 ## Contenu du github
 
 1. [TD1 : Les bases de R et les vecteurs](/TD1.R)
+This TD (Travail Dirigé) in R programming focuses on foundational skills: mastering RStudio, understanding basic R commands, script usage with comments, vector manipulation, and calculating descriptive statistics. It's structured with hands-on exercises to reinforce these concepts, covering object and vector operations, common function applications, and basic statistical function implementations. By completing this TD, students solidify their basic R programming knowledge, crucial for progressing in data analysis and statistical computing tasks.
+
 2. [TP1 : Les bases des dataframes](/TP1.R)
+
 3. [TD2 : Importer et manipulation de dataframe](/TD2.R)
 4. [TP2 : Rappel et cas pratique](/TP2.R)
 5. [TD3 : Créer des colonnes calculées et des agrégations](/TD3.R)
